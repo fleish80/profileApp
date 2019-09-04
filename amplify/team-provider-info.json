@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "profileapp-dev-20190903092444-authRole",
+            "UnauthRoleArn": "arn:aws:iam::829716036625:role/profileapp-dev-20190903092444-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::829716036625:role/profileapp-dev-20190903092444-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "profileapp-dev-20190903092444-deployment",
+            "UnauthRoleName": "profileapp-dev-20190903092444-unauthRole",
+            "StackName": "profileapp-dev-20190903092444",
+            "StackId": "arn:aws:cloudformation:eu-central-1:829716036625:stack/profileapp-dev-20190903092444/8520ca90-ce13-11e9-8e6c-02998deedf64"
+        },
+        "categories": {
+            "auth": {
+                "profileapp7842b6c7": {}
+            }
+        }
+    }
+}
